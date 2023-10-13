@@ -1,8 +1,13 @@
 # [CS50x 2023 — Introduction to Computer Science](https://cs50.harvard.edu/x/2023/) 
 
 
-- [Problem set 1: Population Groth](/pset1)
+- [Problem set 1:](/pset1)
     * [Population](/pset1/population/)
+    * [Scrable]/pset1/population/
+    * [Mario-more](/pset1/mario-more/)
+
+- [Problem set 2:](/pset2)
+    * [Readability.c](/pset2/readability/)
     * [Scrable]/pset1/population/
 - Credit 
 - Mario-more
