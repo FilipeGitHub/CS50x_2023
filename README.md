@@ -2,7 +2,8 @@
 
 
 - [Problem set 1: Population Groth](/pset1)
-    * [population](/pset1/population/)
+    * [Population](/pset1/population/)
+    * [Scrable]/pset1/population/
 - Credit 
 - Mario-more
 
