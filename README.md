@@ -1,8 +1,8 @@
-# [CS50x 2023 — Introduction to Computer Science](https://cs50.harvard.edu/x/2023/) - Problem Sets
+# [CS50x 2023 — Introduction to Computer Science](https://cs50.harvard.edu/x/2023/) 
 
 
-    - [Problem set 1: Population Groth](/pset1)
-        * [population](/pset1/population/)
+- [Problem set 1: Population Groth](/pset1)
+    * [population](/pset1/population/)
 - Credit 
 - Mario-more
 
