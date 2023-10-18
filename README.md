@@ -2,14 +2,20 @@
 
 
 - [Problem set 1:](/pset1)
+    * [Hello](pset1/hello/)
     * [Population](/pset1/population/)
-    * [Scrable]/pset1/population/
     * [Mario-more](/pset1/mario-more/)
 
 - [Problem set 2:](/pset2)
+    * [Scrable](/pset2/scrable/)
     * [Readability.c](/pset2/readability/)
-    * [Scrable]/pset1/population/
-- Credit 
+    * [Substitution](/pset2/substitution/)
+
+- [Problem set 3:](/pset3)
+    * [Sort](/pset3/sort/)
+    * [Plurality.c](/pset3/plurality/)
+    * [Substitution](/pset3/substitution/)
+- Credit cd
 - Mario-more
 
 Week 2
